@@ -1,2 +1,3 @@
-# udacity-deep-learning
-There was an error verifying your email
+## Deep Learning - Udacity
+
+Projects for the Deep Learning Nanodegree at Udacity
